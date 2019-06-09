@@ -3,7 +3,9 @@
  */
 
 /**
- * @author hatte
+ * @author chhattenjr
+ * @date 06/09/2019
+ * @description Print yes if the string contains 'hackerrank', otherwise print 'no'.
  *
  */
 public class hackerRankInAString {
